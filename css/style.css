@@ -1,0 +1,25 @@
+.navbar{
+    background: #FFFBF0;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #3C3C3C;
+}
+.banner_text button{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    color: white;
+}
+.banner_text button:hover{
+    color: #fff;
+}
+.banner_text .btn-check:focus+.btn, .btn:focus {
+    box-shadow: 0 0 0 .25rem #A4BC46;
+}
+.banner_text h1{
+    color: #FABE4C;
+}
+.banner_text h1 span{
+    color: #363958;
+}
+.banner_text p{
+    font-size: 16px;
+}
