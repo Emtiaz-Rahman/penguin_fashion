@@ -23,3 +23,23 @@
 .banner_text p{
     font-size: 16px;
 }
+.img_design{
+    background-color:#f1f1f1;
+}
+.title{
+    color:  #363958;
+}
+.jacket_detail{
+    color:  #3E3E3E;
+    font-size: 16px;
+}
+.price{
+    color: #FABE4C
+}
+.container button{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    color: white;
+}
+.container button:hover{
+    color: #fff;
+}
