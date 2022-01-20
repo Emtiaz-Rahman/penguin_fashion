@@ -43,3 +43,10 @@
 .container button:hover{
     color: #fff;
 }
+
+.srvice_title h2{
+    color: #363958;
+}
+.srvice_title p{
+    color: #3E3E3E;
+}
